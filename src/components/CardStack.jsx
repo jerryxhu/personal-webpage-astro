@@ -1,4 +1,4 @@
-import { icons } from "../components/test.js";
+import { icons } from "./icons.js";
 
 export default function Card({ data, title, index }) {
   return(
