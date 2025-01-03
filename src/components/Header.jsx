@@ -1,6 +1,6 @@
 export default function Header() {
   return (
-    <header className="sticky top-0 text-main-black bg-inherit">
+    <header className="sticky top-0 text-main-black bg-inherit z-50">
       <nav className="flex justify-between items-center h-20 mx-10 sm:mx-20 md:mx-40">
         <a href="/" className="font-bold text-2xl">©Jerry Hu—’25</a>
         <button id="menu-btn" class="block md:hidden text-xl">
